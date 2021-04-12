@@ -62,7 +62,7 @@ h4{
     color: rgb(54, 51, 51);
 }
 
-.name:focus, .db:focus{
+.name:focus, .dob:focus{
     -webkit-box-shadow:0 0 2px 1px seagreen;
     -moz-box-shadow: 0 0 2px 1px seagreen;
     box-shadow: 0 0 2px 1px seagreen;
@@ -97,7 +97,7 @@ h4{
     transition: 1s;
 }
 
-.db{
+.dob{
     width: 65px;
     padding: 14px;
     text-align: center;
